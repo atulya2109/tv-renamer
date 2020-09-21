@@ -1,0 +1,4 @@
+__pycache__/
+player/
+./src/tv/Credentials.py
+.vscode/
